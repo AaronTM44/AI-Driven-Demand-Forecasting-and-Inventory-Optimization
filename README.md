@@ -38,26 +38,26 @@ This represents a **7.3% improvement** in Root Mean Squared Error (**RMSE**) and
 * 
 ---
 
-### 2. Clone the Repository
+## 2. Clone the Repository
 ```bash
 git clone [https://github.com/](https://github.com/)[AaronTM44]/AI-Driven-Demand-Forecasting-and-Inventory-Optimization.git
 cd AI-Driven-Demand-Forecasting-and-Inventory-Optimization
 
 ---
 
-### 3. Install Dependencies
+## 3. Install Dependencies
 Install the required Python libraries using the `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 
 ---
 
-### 4. Download the Dataset
+## 4. Download the Dataset
 Download the "Forecasts for Product Demand" dataset from Kaggle and place the Historical Product Demand.csv file in the root of the project directory.
 
 ---
 
-### 5.Run the Script
+## 5.Run the Script
 Execute the main Python script from your terminal.
 ```bash
 python demand_forecasting.py
